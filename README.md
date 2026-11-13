@@ -198,6 +198,7 @@ data/
 ```
 
 Script bỏ qua gói đã giải nén, kiểm tra file ZIP có hợp lệ và tải lại nếu archive bị hỏng.
+Link dataset sau khi được xử lý: https://drive.google.com/drive/folders/1G81R0mJHgl2vwDxTLXapsb6m-hpNJfH9
 
 ### 2. Tiền xử lý
 
